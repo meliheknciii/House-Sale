@@ -1,0 +1,15 @@
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\bin\Debug\Ev SATIŞ Programı.exe.config
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\bin\Debug\Ev SATIŞ Programı.exe
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\bin\Debug\Ev SATIŞ Programı.pdb
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev SATIŞ Programı.csproj.AssemblyReference.cache
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.Form1.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.Kiralık.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.Properties.Resources.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev SATIŞ Programı.csproj.GenerateResource.cache
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev SATIŞ Programı.csproj.CoreCompileInputs.cache
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev SATIŞ Programı.exe
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev SATIŞ Programı.pdb
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.diger_Bilgiler.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.sonuclar.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.form2.resources
+C:\Users\cnR19\C#\Ev SATIŞ Programı\Ev SATIŞ Programı\obj\Debug\Ev_SATIŞ_Programı.a.resources
